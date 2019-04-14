@@ -30,5 +30,5 @@ Material is a design system – backed by open-source code – that helps teams 
 * Icons
 
 
-[](#cssandjs)
-## CSS and JS
+## [CSS and JS](#cssandjs)
+ 
