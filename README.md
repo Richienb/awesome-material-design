@@ -10,24 +10,24 @@ Material is a design system – backed by open-source code – that helps teams 
   * Frameworks
   * Components
   * Other
-* React
+* [React](#react)
   * Frameworks
   * Components
   * Other
-* Angular
+* [Angular](#angular)
   * Frameworks
   * Components
   * Other
-* Vue
+* [Vue](#vuew)
   * Frameworks
   * Components
   * Other
-* React Native
+* [React Native](#react-native)
   * Frameworks
   * Components
   * Other
-* Color
-* Icons
+* [Color](#color)
+* [Icons](#icons)
 
 
 ## [CSS and JS](#css-and-js)
