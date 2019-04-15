@@ -81,6 +81,16 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## Vue
 
+### Frameworks
+* [Vue material](https://github.com/vuematerial/vue-material) - Lightweigth material library for Vue
+* [Vuetify](https://github.com/vuetifyjs/vuetify) - Popular full material library for Vue
+* [Muse-ui](https://github.com/museui/muse-ui) - Custom material library for Vue
+* [Vue Bootstrap with Material Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Theme and components for Material Design on Vue Bootstrap
+* [https://github.com/posva/vue-mdc](https://github.com/posva/vue-mdc) - Port of Material Design Components for the Web to Vue
+
+### Templates
+* [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
+
 ## React Native
 
 ### Frameworks React Native
@@ -91,7 +101,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ### Components React Native
 * [react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material Design Textfield for React native
-* [https://github.com/evblurbs/react-native-md-textinput](https://github.com/evblurbs/react-native-md-textinput) - Another Material Design Text Input
+* [react-native-md-textinput](https://github.com/evblurbs/react-native-md-textinput) - Another Material Design Text Input
 * [react-native-material-dropdown](https://github.com/n4kz/react-native-material-dropdown) - Material Design Dropdown for React native
 * [react-native-material-buttons](https://github.com/n4kz/react-native-material-buttons) - Material Buttons with Ripple for React Native
 * [react-native-material-menu](https://github.com/mxck/react-native-material-menu) - Great Material Menu component for RN
@@ -103,6 +113,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [react-native-material-dialog](https://github.com/hectahertz/react-native-material-dialog) - Custom Material dialog for react native
 * [react-native-material-tabs](https://github.com/iRoachie/react-native-material-tabs) - Material Tabs implemented in RN
 * [react-native-material-design-searchbar](https://github.com/ananddayalan/react-native-material-design-searchbar) - Material design Searchbar
+* [react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation) - Material bottom navigation for RN
 
 ## Cordova
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
