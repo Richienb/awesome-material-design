@@ -7,7 +7,7 @@ Material is a design system – backed by open-source code – that helps teams 
 ### Table of Contents
 
 * [CSS and JS](#css-and-js)
-  * Frameworks
+  * [Frameworks](#frameworks-css-js)
     * Bootstrap
   * Components
   * Other
@@ -41,7 +41,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## [CSS and JS](#css-and-js)
 
-### Frameworks
+### Frameworks CSS JS
 * [Material Components for the Web](https://material.io/develop/web/) - Google's official CSS and JS Material design components, still in development
 * [Materialzecss](https://materializecss.com/) - Popular CSS and JS (+ jquery) Material Framework with many components supported
 * [Matertial Design Lite](https://getmdl.io/) - Created by google, limited support, replaced by Material Components for the web
