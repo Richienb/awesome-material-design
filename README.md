@@ -71,12 +71,22 @@ Material is a design system – backed by open-source code – that helps teams 
 * [React Material Components](https://github.com/material-components/material-components-web-react) - Port fo Material Components for the Web to react
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) - Material Design components in React and CSS modules
 * [React Bootstrap with Material](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - Material Design theme for React Bootsrap
+* [rmwc](https://github.com/jamesmfriedman/rmwc) - Another port of Material Componetns for the web for react
+
 
 ### Components
+* [react-material-floating-button](https://github.com/nobitagit/react-material-floating-button) - Material Design FAB button in React
+* [material-table](https://github.com/mbrn/material-table) - Material Table based on Material UI with more options
+* [material-ui-chip-input](https://github.com/TeamWertarbyte/material-ui-chip-input) - Material Chip in a TextField based on Material UI
+* [mui-datatables](https://github.com/gregnb/mui-datatables) - Material design datatables based on Material UI with more features
+* [react-materialui-notifications](https://github.com/puranjayjain/react-materialui-notifications) - Material UI notifications with more features
+* [material-auto-rotating-carousel](https://github.com/TeamWertarbyte/material-auto-rotating-carousel) - Material Carousel based on Material UI
+
 
 ### Templates
 * [material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - Full dashboard ui built in react and material design
 * [react-admin](https://github.com/marmelab/react-admin) - Framework using Material UI and Graphql to create Admin panels
+* [material-sense](https://github.com/alexanmtz/material-sense) - Template built on Material UI for building a full app
 
 ## Angular
 
