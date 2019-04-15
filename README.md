@@ -18,13 +18,13 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Angular](#angular)
   * Frameworks
   * Templates
-* [Vue](#vuew)
+* [Vue](#vue)
   * Frameworks
   * Templates
 * [React Native](#react-native)
   * Frameworks
   * Components
-* [Cordova](#Cordova)
+* [Cordova](#cordova)
   * Frameworks
 * [Android](#android)
   * Components
@@ -140,7 +140,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## Android
 
-## Components
+### Components
 * [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
 
 ## AngularJS
