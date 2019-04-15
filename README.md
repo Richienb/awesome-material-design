@@ -51,7 +51,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 #### Bootstrap
 
-* [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
+* [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
 
@@ -126,7 +126,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [react-native-material-buttons](https://github.com/n4kz/react-native-material-buttons) - Material Buttons with Ripple for React Native
 * [react-native-material-menu](https://github.com/mxck/react-native-material-menu) - Great Material Menu component for RN
 * [react-native-material-cards](https://github.com/SiDevesh/React-Native-Material-Cards) - Material Cards for RN
-* [react-naative-fab](https://github.com/SiDevesh/React-Native-FAB) - Just a simple Material FAB
+* [react-native-fab](https://github.com/SiDevesh/React-Native-FAB) - Just a simple Material FAB
 * [react-native-material-ripple](https://github.com/n4kz/react-native-material-ripple) - Awesome Material design component, works on both Android and iOS
 * [react-native-circular-menu](https://github.com/cinder92/react-native-circular-menu) - Amazing circular menu animation for RN
 * [react-native-material-switch](https://github.com/recr0ns/react-native-material-switch) - Material Switch for both iOS and Android
