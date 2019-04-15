@@ -50,12 +50,14 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 
+#### Foundation
+* [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
+
 ### Components
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
 
 
-#### Foundation
-* [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
+
 
 ## React
 * [Material UI](https://material-ui.com/) - Most popular UI library for React, frequently updated.
