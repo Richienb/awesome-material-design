@@ -34,7 +34,7 @@ Material is a design system – backed by open-source code – that helps teams 
   * Frameworks
 * [Color](#color)
 * [Icons](#icons)
-
+* [Other](#other)
 
 ## CSS and JS
 
@@ -49,6 +49,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 * [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
+* [Material Kit)(https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
 
 #### Foundation
 * [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
@@ -85,7 +86,7 @@ Material is a design system – backed by open-source code – that helps teams 
 ## Android
 
 ## Components
-* (MaterialSpinner)[https://github.com/jaredrummler/MaterialSpinner] - Material Design spinner for android
+* [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
@@ -110,4 +111,4 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline) - Official Material Icons by Google
 * [Material Design Community Icons](https://materialdesignicons.com/) - Material Design Icons created by the community
 
- 
+ ## Other
