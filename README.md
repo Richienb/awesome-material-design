@@ -70,6 +70,15 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## React Native
 
+### Frameworks React Native
+* [React native Material Kit](https://github.com/xinthink/react-native-material-kit) - Material UI components for react native, updated
+* [React Native Material UI](https://github.com/xotahal/react-native-material-ui) - Highly Customizable react native componetns, updated frequently
+* [React Native Paper](https://github.com/callstack/react-native-paper) - Material Design for iOS and Android
+
+### Components React Native
+* [react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material Design Textfield for React native
+* [react-native-material-dropdown](https://github.com/n4kz/react-native-material-dropdown) - Material Design Dropdown for React native
+
 ## Cordova
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
 
