@@ -73,7 +73,7 @@ Material is a design system – backed by open-source code – that helps teams 
 ### Components
 
 ### Templates
-* [material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react] - Full dashboard ui built in react and material design
+* [material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - Full dashboard ui built in react and material design
 * [react-admin](https://github.com/marmelab/react-admin) - Framework using Material UI and Graphql to create Admin panels
 
 ## Angular
@@ -91,7 +91,18 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ### Components React Native
 * [react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material Design Textfield for React native
+* [https://github.com/evblurbs/react-native-md-textinput](https://github.com/evblurbs/react-native-md-textinput) - Another Material Design Text Input
 * [react-native-material-dropdown](https://github.com/n4kz/react-native-material-dropdown) - Material Design Dropdown for React native
+* [react-native-material-buttons](https://github.com/n4kz/react-native-material-buttons) - Material Buttons with Ripple for React Native
+* [react-native-material-menu](https://github.com/mxck/react-native-material-menu) - Great Material Menu component for RN
+* [react-native-material-cards](https://github.com/SiDevesh/React-Native-Material-Cards) - Material Cards for RN
+* [react-naative-fab](https://github.com/SiDevesh/React-Native-FAB) - Just a simple Material FAB
+* [react-native-material-ripple](https://github.com/n4kz/react-native-material-ripple) - Awesome Material design component, works on both Android and iOS
+* [react-native-circular-menu](https://github.com/cinder92/react-native-circular-menu) - Amazing circular menu animation for RN
+* [react-native-material-switch](https://github.com/recr0ns/react-native-material-switch) - Material Switch for both iOS and Android
+* [react-native-material-dialog](https://github.com/hectahertz/react-native-material-dialog) - Custom Material dialog for react native
+* [react-native-material-tabs](https://github.com/iRoachie/react-native-material-tabs) - Material Tabs implemented in RN
+* [react-native-material-design-searchbar](https://github.com/ananddayalan/react-native-material-design-searchbar) - Material design Searchbar
 
 ## Cordova
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
