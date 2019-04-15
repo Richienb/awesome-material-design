@@ -76,6 +76,10 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## [Color](#color)
 
+
 ## [Icons](#icons)
+
+* [Material Design Icons](https://material.io/tools/icons/?style=baseline) - Official Material Icons by Google
+* [Material Design Community Icons](https://materialdesignicons.com/) - Material Design Icons created by the community
 
  
