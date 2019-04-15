@@ -8,9 +8,9 @@ Material is a design system – backed by open-source code – that helps teams 
 
 * [CSS and JS](#css-and-js)
   * [Frameworks](#frameworks-css-js)
-    * Bootstrap
-  * Components
-  * Other
+    * [Bootstrap](#bootstrap)
+  * [Components](#components-css-js)
+  * [Other](#other-css-js)
 * [React](#react)
   * Frameworks
   * Components
@@ -35,6 +35,8 @@ Material is a design system – backed by open-source code – that helps teams 
   * Frameworks
   * Components
   * Other
+* [Aurelia](#aurelia)
+  * Frameworks
 * [Color](#color)
 * [Icons](#icons)
 
@@ -52,6 +54,9 @@ Material is a design system – backed by open-source code – that helps teams 
 
 * [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
+
+### Components
+
 
 #### Foundation
 * [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
@@ -73,6 +78,9 @@ Material is a design system – backed by open-source code – that helps teams 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
+
+## Aurelia
+* [AAurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
 
 ## Color
 * [Material Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0) - Offical color tool for creating themes with material colors
