@@ -39,6 +39,8 @@ Material is a design system – backed by open-source code – that helps teams 
   * Frameworks
 * [Elm](#elm)
   * Frameworks
+* [Blazor](#blazor)
+  * Frameworks
 * [Color](#color)
 * [Icons](#icons)
 
@@ -87,6 +89,9 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## Elm
 * [Elm MDC](https://github.com/aforemny/elm-mdc) - Port of Material Design Components to elm
+
+## Blazor
+* [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
 
 ## Color
 * [Material Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0) - Offical color tool for creating themes with material colors
