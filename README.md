@@ -42,7 +42,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ### Frameworks CSS JS
 * [Material Components for the Web](https://material.io/develop/web/) - Google's official CSS and JS Material design components, still in development
-* [Materialzecss](https://materializecss.com/) - Popular CSS and JS (+ jquery) Material Framework with many components supported
+* [MaterialzeCSS](https://materializecss.com/) - Popular CSS and JS (+ jquery) Material Framework with many components supported
 * [Material Design Lite](https://getmdl.io/) - Created by google, limited support, replaced by Material Components for the web
 * [MUICSS](https://github.com/muicss/mui) - Lightweight Material framework, frequently updated
 * [Surface](https://mildrenben.github.io/surface/about.html) - Another lightweight material framework, frequently updated
@@ -51,7 +51,7 @@ Material is a design system – backed by open-source code – that helps teams 
 
 * [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
-* [Material Kit)(https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
+* [Material Kit](https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
 
 #### Foundation
 * [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
@@ -64,11 +64,17 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ### Frameworks
 * [Material UI](https://material-ui.com/) - Most popular UI library for React, frequently updated.
+* [React MD](https://github.com/mlaursen/react-md) - Material React Components built with sass
+* [React Materialize](https://github.com/react-materialize/react-materialize) - Port of Materialze to React 
+* [React Material Components](https://github.com/material-components/material-components-web-react) - Port fo Material Components for the Web to react
+* [React Toolbox](https://github.com/react-toolbox/react-toolbox) - Material Design components in React and CSS modules
+* [React Bootstrap with Material](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - Material Design theme for React Bootsrap
 
 ### Components
 
 ### Templates
 * [material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react] - Full dashboard ui built in react and material design
+* [react-admin](https://github.com/marmelab/react-admin) - Framework using Material UI and Graphql to create Admin panels
 
 ## Angular
 * [Angular Material](https://material.angular.io/components/categories) - The Angular Team's Material Component Library
@@ -81,6 +87,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [React native Material Kit](https://github.com/xinthink/react-native-material-kit) - Material UI components for react native, updated
 * [React Native Material UI](https://github.com/xotahal/react-native-material-ui) - Highly Customizable react native componetns, updated frequently
 * [React Native Paper](https://github.com/callstack/react-native-paper) - Material Design for iOS and Android
+
 
 ### Components React Native
 * [react-native-material-textfield](https://github.com/n4kz/react-native-material-textfield) - Material Design Textfield for React native
