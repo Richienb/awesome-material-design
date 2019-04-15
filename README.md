@@ -48,6 +48,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Material Design Lite](https://getmdl.io/) - Created by google, limited support, replaced by Material Components for the web
 * [MUICSS](https://github.com/muicss/mui) - Lightweight Material framework, frequently updated
 * [Surface](https://mildrenben.github.io/surface/about.html) - Another lightweight material framework, frequently updated
+* [Polymer MDC Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
 
 #### Bootstrap
 
