@@ -166,5 +166,6 @@ Material is a design system – backed by open-source code – that helps teams 
 
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline) - Official Material Icons by Google
 * [Material Design Community Icons](https://materialdesignicons.com/) - Material Design Icons created by the community
+* [Material Design Iconic Font](https://zavoloklom.github.io/material-design-iconic-font) - A full suite of Material design icons (created and maintained by Google) with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
 
  ## Other
