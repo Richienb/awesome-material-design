@@ -10,31 +10,22 @@ Material is a design system – backed by open-source code – that helps teams 
   * [Frameworks](#frameworks-css-js)
     * [Bootstrap](#bootstrap)
   * [Components](#components-css-js)
-  * [Other](#other-css-js)
 * [React](#react)
   * Frameworks
   * Components
-  * Other
 * [Angular](#angular)
   * Frameworks
-  * Components
-  * Other
 * [Vue](#vuew)
   * Frameworks
-  * Components
-  * Other
 * [React Native](#react-native)
   * Frameworks
   * Components
-  * Other
 * [Cordova](#Cordova)
   * Frameworks
+* [Android](#android)
   * Components
-  * Other
 * [AngularJS](#angularjs)
   * Frameworks
-  * Components
-  * Other
 * [Aurelia](#aurelia)
   * Frameworks
 * [Elm](#elm)
@@ -79,6 +70,11 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## Cordova
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
+
+## Android
+
+## Components
+* (MaterialSpinner)[https://github.com/jaredrummler/MaterialSpinner] - Material Design spinner for android
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
