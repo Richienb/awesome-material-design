@@ -17,8 +17,10 @@ Material is a design system – backed by open-source code – that helps teams 
   * Templates
 * [Angular](#angular)
   * Frameworks
+  * Templates
 * [Vue](#vuew)
   * Frameworks
+  * Templates
 * [React Native](#react-native)
   * Frameworks
   * Components
@@ -77,7 +79,15 @@ Material is a design system – backed by open-source code – that helps teams 
 * [react-admin](https://github.com/marmelab/react-admin) - Framework using Material UI and Graphql to create Admin panels
 
 ## Angular
+
+### Frameworks
 * [Angular Material](https://material.angular.io/components/categories) - The Angular Team's Material Component Library
+* [Angular2 Materialize](https://github.com/InfomediaLtd/angular2-materialize) - Port of materialilze to Angular
+* [Angular Bootstrap with Material Design](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) - Material design theme for bootstrap ported to angular bootstrap
+
+### Templates
+* [material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard framework built on Material Kit
+
 
 ## Vue
 
