@@ -7,12 +7,14 @@ Material is a design system – backed by open-source code – that helps teams 
 ### Table of Contents
 
 * [CSS and JS](#css-and-js)
-  * [Frameworks](#frameworks-css-js)
-    * [Bootstrap](#bootstrap)
-  * [Components](#components-css-js)
+  * Frameworks
+    * Bootstrap
+    * Foundation
+  * Components
 * [React](#react)
   * Frameworks
   * Components
+  * Templates
 * [Angular](#angular)
   * Frameworks
 * [Vue](#vuew)
@@ -58,11 +60,15 @@ Material is a design system – backed by open-source code – that helps teams 
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
 
 
-
-
 ## React
+
+### Frameworks
 * [Material UI](https://material-ui.com/) - Most popular UI library for React, frequently updated.
 
+### Components
+
+### Templates
+* [material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react] - Full dashboard ui built in react and material design
 
 ## Angular
 * [Angular Material](https://material.angular.io/components/categories) - The Angular Team's Material Component Library
