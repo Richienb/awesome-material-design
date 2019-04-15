@@ -27,7 +27,11 @@ Material is a design system – backed by open-source code – that helps teams 
   * Frameworks
   * Components
   * Other
-* [AngularJS[(#angularjs)
+* [Cordova](#Cordova)
+  * Frameworks
+  * Components
+  * Other
+* [AngularJS](#angularjs)
   * Frameworks
   * Components
   * Other
@@ -43,6 +47,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Matertial Design Lite](https://getmdl.io/) - Created by google, limited support, replaced by Material Components for the web
 * [MUICSS](https://github.com/muicss/mui) - Lightweight Material framework, frequently updated
 * [Surface](https://mildrenben.github.io/surface/about.html) - Another lightweight material framework, frequently updated
+
 #### Bootstrap
 
 * [Material Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
@@ -62,8 +67,12 @@ Material is a design system – backed by open-source code – that helps teams 
 
 ## [React Native](#react-native)
 
+## [Cordova](#cordova)
+* [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
+
 ## [AngularJS](#angular-js)
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
+* [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 
 ## [Color](#color)
 
