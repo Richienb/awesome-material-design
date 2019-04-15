@@ -107,6 +107,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Muse-ui](https://github.com/museui/muse-ui) - Custom material library for Vue
 * [Vue Bootstrap with Material Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Theme and components for Material Design on Vue Bootstrap
 * [https://github.com/posva/vue-mdc](https://github.com/posva/vue-mdc) - Port of Material Design Components for the Web to Vue
+* [Vue MDC Adapter](https://material.io/develop/web/) - Integration of Material Components for Vue.js which follows the best practices recommended by Google.
 
 ### Templates
 * [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
