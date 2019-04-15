@@ -75,7 +75,9 @@ Material is a design system – backed by open-source code – that helps teams 
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 
 ## [Color](#color)
-
+* [Material Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0) - Offical color tool for creating themes with material colors
+* [Material UI Colors](https://materialuicolors.co/) - Great tool for selecting and browsing Material Colors 
+* [Material Palette](https://www.materialpalette.com/) - Similiar color tool for browsing Material Colors A
 
 ## [Icons](#icons)
 
