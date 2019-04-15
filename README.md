@@ -37,6 +37,8 @@ Material is a design system – backed by open-source code – that helps teams 
   * Other
 * [Aurelia](#aurelia)
   * Frameworks
+* [Elm](#elm)
+  * Frameworks
 * [Color](#color)
 * [Icons](#icons)
 
@@ -56,6 +58,7 @@ Material is a design system – backed by open-source code – that helps teams 
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 
 ### Components
+* [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
 
 
 #### Foundation
@@ -80,7 +83,10 @@ Material is a design system – backed by open-source code – that helps teams 
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 
 ## Aurelia
-* [AAurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
+* [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
+
+## Elm
+* [Elm MDC](https://github.com/aforemny/elm-mdc) - Port of Material Design Components to elm
 
 ## Color
 * [Material Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0) - Offical color tool for creating themes with material colors
