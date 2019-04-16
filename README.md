@@ -139,10 +139,12 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
 * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) - Long supported Material DateTimePicker, supports Android 4.1 
 * [MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker) - Fork of MaterialDateTimePicker that allows for a range to be chosen
+* [SublimePicker](https://github.com/vikramkakkar/SublimePicker) - Date and Time picker with many options
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
+* [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
 
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
