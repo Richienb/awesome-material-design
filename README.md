@@ -4,6 +4,8 @@ Material is a design system – backed by open-source code – that helps teams 
 
 [Material Design Docs](https://material.io/)
 
+Below is a list of frameworks, components, templates, tools, and resources for Material Design.
+
 ### Table of Contents
 
 * [CSS and JS](#css-and-js)
