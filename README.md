@@ -43,7 +43,10 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [material-sass](https://github.com/mkhairi/material-sass) - Material SASS for Bootstrap as a RubyGem
 
 ### Components
+* [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS Ripple
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
+* [materialize-autocomplete](https://github.com/icefox0801/materialize-autocomplete) - Jquery and CSS Material Autocomplete component for Materialize
+* [Material-Design-For-Full-Calendar](https://github.com/jackyliang/Material-Design-For-Full-Calendar) - Full Material Calender with Material Design built on Jquery and CSS
 
 ### Templates
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dasbhoard for Bootstrap 4
