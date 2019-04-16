@@ -32,6 +32,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MUICSS](https://github.com/muicss/mui) - Lightweight Material framework, frequently updated
 * [Surface](https://mildrenben.github.io/surface/about.html) - Another lightweight material framework, frequently updated
 * [Polymer MDC Web Components](https://github.com/material-components/material-components-web-components) - Material Design implemented as Web Components.
+* [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
 
 #### Bootstrap
 
@@ -39,9 +40,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
 * [Propeller](https://github.com/digicorp/propeller) - 25 Material UI components built on Bootstrap 4
-
-#### Foundation
-* [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
+* [material-sass](https://github.com/mkhairi/material-sass) - Material SASS for Bootstrap as a RubyGem
 
 ### Components
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
