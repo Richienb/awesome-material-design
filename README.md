@@ -50,6 +50,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
 * [materialize-autocomplete](https://github.com/icefox0801/materialize-autocomplete) - Jquery and CSS Material Autocomplete component for Materialize
 * [Material-Design-For-Full-Calendar](https://github.com/jackyliang/Material-Design-For-Full-Calendar) - Full Material Calender with Material Design built on Jquery and CSS
+* [mdtogglecss](https://github.com/pedrolaxe/mdtogglecss) - Material Design Toggle slider in CSS
 
 ### Templates
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dasbhoard for Bootstrap 4
@@ -149,6 +150,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) - Long supported Material DateTimePicker, supports Android 4.1 
 * [MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker) - Fork of MaterialDateTimePicker that allows for a range to be chosen
 * [SublimePicker](https://github.com/vikramkakkar/SublimePicker) - Date and Time picker with many options
+* [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - All in one Material Design 2 drawer for Android
+* [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) - An easier to use Material Navigation Drawer 
+* [material-menu](https://github.com/balysv/material-menu) - Cool morphing material menu icons
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
