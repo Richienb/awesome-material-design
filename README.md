@@ -61,6 +61,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [React Toolbox](https://github.com/react-toolbox/react-toolbox) - Material Design components in React and CSS modules
 * [React Bootstrap with Material](https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design) - Material Design theme for React Bootsrap
 * [rmwc](https://github.com/jamesmfriedman/rmwc) - Another port of Material Componetns for the web for react
+* [DevExtreme Reactive](https://github.com/DevExpress/devextreme-reactive) - React components using Bootstrap and Material Design
 
 
 ### Components
