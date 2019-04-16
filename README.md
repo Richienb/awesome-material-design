@@ -45,6 +45,11 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ### Components
 * [md-date-time-picker ](https://github.com/puranjayjain/md-date-time-picker) - Material Design Date and Time picker in CSS, JS, and HTML
 
+### Templates
+* [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dasbhoard for Bootstrap 4
+* [Bootstrap-4-templates](https://github.com/mdbootstrap/Bootstrap-4-templates) - Many free material templates for Bootstrap 4
+* [Material-admin](https://github.com/BootstrapDash/Material-Admin) - Material Dashboard Admin built on Bootstrap 4 and jquery
+
 
 ## React
 
@@ -154,3 +159,4 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Material Design Iconic Font](https://zavoloklom.github.io/material-design-iconic-font) - A full suite of Material design icons (created and maintained by Google) with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
 
  ## Other
+* [MaterialWP](https://github.com/braginteractive/materialwp) - Material Theme for wordpress
