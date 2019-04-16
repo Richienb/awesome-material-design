@@ -37,7 +37,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 #### Bootstrap
 
 * [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
-* [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
+* [Material](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
 * [Propeller](https://github.com/digicorp/propeller) - 25 Material UI components built on Bootstrap 4
 * [material-sass](https://github.com/mkhairi/material-sass) - Material SASS for Bootstrap as a RubyGem
