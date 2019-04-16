@@ -50,6 +50,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Bootstrap-4-templates](https://github.com/mdbootstrap/Bootstrap-4-templates) - Many free material templates for Bootstrap 4
 * [Material-admin](https://github.com/BootstrapDash/Material-Admin) - Material Dashboard Admin built on Bootstrap 4 and jquery
 * [Ecommerce-Template-Bootstrap](https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap) - Bootstrap 4 Ecommerce template built with material design
+* [Blog-Template-Bootstrap](https://github.com/mdbootstrap/Blog-Template-Bootstrap) - Boostrap 4 blog template in material
 
 
 ## React
@@ -72,6 +73,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [mui-datatables](https://github.com/gregnb/mui-datatables) - Material design datatables based on Material UI with more features
 * [react-materialui-notifications](https://github.com/puranjayjain/react-materialui-notifications) - Material UI notifications with more features
 * [material-auto-rotating-carousel](https://github.com/TeamWertarbyte/material-auto-rotating-carousel) - Material Carousel based on Material UI
+* [material-ui-pickers](https://github.com/dmtrKovalenko/material-ui-pickers) - Beautfiul Material Date and Time Pickers for use with Material UI
 
 
 ### Templates
@@ -135,6 +137,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Components
 * [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
+* [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) - Long supported Material DateTimePicker, supports Android 4.1 
+* [MaterialDateRangePicker](https://github.com/heysupratim/MaterialDateRangePicker) - Fork of MaterialDateTimePicker that allows for a range to be chosen
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
