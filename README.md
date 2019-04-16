@@ -38,6 +38,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Bootstrap Material Design](https://github.com/FezVrasta/bootstrap-material-design) - Bootstrap 3 and 4 material design, built on Bootstrap. Not updated
 * [Matertial](https://github.com/Daemonite/material) - Bootstrap 4 Material components, updated recently
 * [Material Kit](https://github.com/creativetimofficial/material-kit) - Bootstrap 4 theme that can be used with many frameworks and platforms
+* [Propeller](https://github.com/digicorp/propeller) - 25 Material UI components built on Bootstrap 4
 
 #### Foundation
 * [Material Foundation](http://materialfoundation.mikolajdobrucki.com/) - Official Material Theme for Foundation, not updated
@@ -49,6 +50,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dasbhoard for Bootstrap 4
 * [Bootstrap-4-templates](https://github.com/mdbootstrap/Bootstrap-4-templates) - Many free material templates for Bootstrap 4
 * [Material-admin](https://github.com/BootstrapDash/Material-Admin) - Material Dashboard Admin built on Bootstrap 4 and jquery
+* [Ecommerce-Template-Bootstrap](https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap) - Bootstrap 4 Ecommerce template built with material design
 
 
 ## React
