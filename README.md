@@ -98,12 +98,15 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ## Vue
 
 ### Frameworks
-* [Vue material](https://github.com/vuematerial/vue-material) - Lightweigth material library for Vue
+* [Vue material](https://github.com/vuematerial/vue-material) - Lightweight material library for Vue
 * [Vuetify](https://github.com/vuetifyjs/vuetify) - Popular full material library for Vue
 * [Muse-ui](https://github.com/museui/muse-ui) - Custom material library for Vue
 * [Vue Bootstrap with Material Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Theme and components for Material Design on Vue Bootstrap
 * [Vue MDC](https://github.com/posva/vue-mdc) - Port of Material Design Components for the Web to Vue
 * [Vue MDC Adapter](https://stasson.github.io/vue-mdc-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google.
+
+### Components
+* [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - Materialize Datatable built for Vue
 
 ### Templates
 * [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
@@ -159,15 +162,23 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
 
 ## Color
+
+### Site Tools
 * [Material Color Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0) - Offical color tool for creating themes with material colors
 * [Material UI Colors](https://materialuicolors.co/) - Great tool for selecting and browsing Material Colors 
 * [Material Palette](https://www.materialpalette.com/) - Similiar color tool for browsing Material Colors A
+
+### Dev
+* [material-colors](https://github.com/shuhei/material-colors) - Exposes Material colors as css classes and variables as well as global variables
 
 ## Icons
 
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline) - Official Material Icons by Google
 * [Material Design Community Icons](https://materialdesignicons.com/) - Material Design Icons created by the community
 * [Material Design Iconic Font](https://zavoloklom.github.io/material-design-iconic-font) - A full suite of Material design icons (created and maintained by Google) with additional community-designed and brands icons for easy scalable vector graphics on websites or desktop.
+
+### Dev
+* [material_icons](https://github.com/Angelmmiguel/material_icons) - Rails wrapper for material icons
 
  ## Other
 * [MaterialWP](https://github.com/braginteractive/materialwp) - Material Theme for wordpress
