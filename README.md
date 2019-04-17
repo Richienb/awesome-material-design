@@ -96,6 +96,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Angular2 Materialize](https://github.com/InfomediaLtd/angular2-materialize) - Port of materialilze to Angular
 * [Angular Bootstrap with Material Design](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) - Material design theme for bootstrap ported to angular bootstrap
 * [angular-mdc-web](https://github.com/trimox/angular-mdc-web) - Port of Material Design Components for the Web to Angular 2
+* [angular2-mdl](https://github.com/mseemann/angular2-mdl) - Port of Material Design lite to Angular 2
 
 ### Templates
 * [material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard framework built on Material Kit
@@ -108,7 +109,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [md-data-table](https://github.com/daniel-nagy/md-data-table) - Material Data table for Angular Material 2 
 * [ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable) - Another Angular 2 Maaterial Data Table
 * [MaterialTimeControl](https://github.com/SteveDunlap13/MaterialTimeControl) - Awesome Material Time picker and control
-
+* [angular-material-sidemenu](https://github.com/xandorxicay/angular-material-sidemenu) - Sidemenu for Angular material
+* [ng2-material-dropdown](https://github.com/Gbuomprisco/ng2-material-dropdown) - Material Dropdown for Angular 2
+* [angular-material-fileupload](https://github.com/nishantmc/angular-material-fileupload) - A file upload and progress indicator for Angular 2
 
 ## Vue
 
