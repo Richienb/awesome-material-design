@@ -112,6 +112,12 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [angular-material-sidemenu](https://github.com/xandorxicay/angular-material-sidemenu) - Sidemenu for Angular material
 * [ng2-material-dropdown](https://github.com/Gbuomprisco/ng2-material-dropdown) - Material Dropdown for Angular 2
 * [angular-material-fileupload](https://github.com/nishantmc/angular-material-fileupload) - A file upload and progress indicator for Angular 2
+* [ngx-mat-select-search](https://github.com/bithost-gmbh/ngx-mat-select-search) - Select search dropdown for Angular Material
+* [angular-mgl-timeline](https://github.com/glutengo/angular-mgl-timeline) - A vertical timeline component built for Angular Material
+* [angular2-mdl-ext](https://github.com/mseemann/angular2-mdl-ext) - Some more material components for Angular 2 Material Design Lite project
+* [material2-carousel](https://github.com/gbrlsnchs/material2-carousel) - A material carousel for Angular material
+* [ng2-daterange-picker](https://github.com/albertnadal/ng2-daterange-picker) - Select a date range component for Angular 2
+
 
 ## Vue
 
