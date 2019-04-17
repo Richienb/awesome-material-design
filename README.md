@@ -97,6 +97,10 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Templates
 * [material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard framework built on Material Kit
+* [angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) - Material Dashboard for Angular 2
+
+### Components
+* [md-data-table](https://github.com/daniel-nagy/md-data-table) - Material Data table for Angular Material 2 
 
 
 ## Vue
@@ -159,6 +163,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 * [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
 
+
+
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
 
@@ -186,6 +192,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Dev
 * [material_icons](https://github.com/Angelmmiguel/material_icons) - Rails wrapper for material icons
+* [angular-material-icons](https://github.com/klarsys/angular-material-icons) - Material icons offer
 
  ## Other
 * [MaterialWP](https://github.com/braginteractive/materialwp) - Material Theme for wordpress
