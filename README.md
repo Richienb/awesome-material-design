@@ -92,15 +92,22 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Frameworks
 * [Angular Material](https://material.angular.io/components/categories) - The Angular Team's Material Component Library
+* [Material Community Components](https://github.com/tiaguinho/material-community-components) - An awesome idea for a library of components built by the angular community for components not found in the offical Angular Material rep.
 * [Angular2 Materialize](https://github.com/InfomediaLtd/angular2-materialize) - Port of materialilze to Angular
 * [Angular Bootstrap with Material Design](https://github.com/mdbootstrap/Angular-Bootstrap-with-Material-Design) - Material design theme for bootstrap ported to angular bootstrap
+* [angular-mdc-web](https://github.com/trimox/angular-mdc-web) - Port of Material Design Components for the Web to Angular 2
 
 ### Templates
 * [material-dashboard-angular2](https://github.com/creativetimofficial/material-dashboard-angular2) - Material Dashboard framework built on Material Kit
 * [angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) - Material Dashboard for Angular 2
+* [cdk-admin](https://github.com/codetok/cdk-admin) - Admin dashboard using Angular Material and Flexbox
+* [material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) - First dark themed Angular Dashboard
+
 
 ### Components
 * [md-data-table](https://github.com/daniel-nagy/md-data-table) - Material Data table for Angular Material 2 
+* [ng2-md-datatable](https://github.com/fredguile/ng2-md-datatable) - Another Angular 2 Maaterial Data Table
+* [MaterialTimeControl](https://github.com/SteveDunlap13/MaterialTimeControl) - Awesome Material Time picker and control
 
 
 ## Vue
