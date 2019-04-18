@@ -13,7 +13,6 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Angular](#angular)
 * [Vue](#vue)
 * [React Native](#react-native)
-* [Cordova](#cordova)
 * [Android](#android)
 * [AngularJS](#angularjs)
 * [Aurelia](#aurelia)
@@ -22,6 +21,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Color](#color)
 * [Icons](#icons)
 * [Other](#other)
+  * [Wordpress](#wordpress)
+  * [Cordova](#cordova)
 
 ## CSS and JS
 
@@ -173,10 +174,6 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [react-native-material-design-searchbar](https://github.com/ananddayalan/react-native-material-design-searchbar) - Material design Searchbar
 * [react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation) - Material bottom navigation for RN
 
-
-## Cordova
-* [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
-
 ## Android
 
 ### Frameworks
@@ -228,4 +225,10 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [angular-material-icons](https://github.com/klarsys/angular-material-icons) - Material icons offer
 
  ## Other
+
+### Wordpress
 * [MaterialWP](https://github.com/braginteractive/materialwp) - Material Theme for wordpress
+
+
+### Cordova
+* [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
