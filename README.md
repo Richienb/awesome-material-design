@@ -132,6 +132,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [material-components-vue](https://github.com/matsp/material-components-vue) - Updated Port of Material Design Components for the Web to Vuew
 * [Devextreme Reactive](https://github.com/DevExpress/devextreme-reactive) - Material Components built on Bootstrap and Vue
 * [quasar](https://github.com/quasarframework/quasar) - A framework on top of Vue that provides Material Design 2 components
+* [BalmUI](https://github.com/balmjs/ui-vue) - Modern Material Components for Vue
+
 
 ### Components
 * [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - Materialize Datatable built for Vue
@@ -141,6 +143,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Select with autocomplete with a material theme
 * [vue-floating-action-button](https://github.com/a62527776a/vue-floating-action-button) - FAB implemented in Vue
 * [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) - 12 month material calener in Vue
+* [vue-mdl-datepicker](https://github.com/CYBAI/vue-mdl-datepicker) - Material Date picker for Vue
 
 ### Templates
 * [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
@@ -175,6 +178,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
 
 ## Android
+
+### Frameworks
+* [Material](https://github.com/rey5137/material) -  Back-port Material Design components to pre-Lolipop Android
 
 ### Components
 * [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
