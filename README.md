@@ -131,9 +131,12 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Keen UI](https://github.com/JosephusPaye/Keen-UI) - Lightweight Material Components for Material Web
 * [material-components-vue](https://github.com/matsp/material-components-vue) - Updated Port of Material Design Components for the Web to Vuew
 * [Devextreme Reactive](https://github.com/DevExpress/devextreme-reactive) - Material Components built on Bootstrap and Vue
+* [quasar](https://github.com/quasarframework/quasar) - A framework on top of Vue that provides Material Design 2 components
 
 ### Components
 * [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - Materialize Datatable built for Vue
+* [vue-ripple](https://github.com/BosNaufal/vue-ripple) - Simple Ripple implemented in Vue
+* [vuetify-daterange-picker](https://github.com/praveenpuglia/vuetify-daterange-picker) - Material Daterange picker for Vuetify
 
 ### Templates
 * [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
