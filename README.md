@@ -177,7 +177,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ## Android
 
 ### Frameworks
+* [Material Components Android](https://github.com/material-components/material-components-android) - Material Components developed by Google for Android
 * [Material](https://github.com/rey5137/material) -  Back-port Material Design components to pre-Lolipop Android
+* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) - Material Components for Android L
 
 ### Components
 * [MaterialSpinner](https://github.com/jaredrummler/MaterialSpinner) - Material Design spinner for android
@@ -187,12 +189,12 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - All in one Material Design 2 drawer for Android
 * [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) - An easier to use Material Navigation Drawer 
 * [material-menu](https://github.com/balysv/material-menu) - Cool morphing material menu icons
+* [material-dialogs](https://github.com/afollestad/material-dialogs) - Modern Material Dialogs for Android
 
 ## AngularJS
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 * [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
-
 
 
 ## Aurelia
