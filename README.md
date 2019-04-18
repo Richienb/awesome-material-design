@@ -137,9 +137,14 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - Materialize Datatable built for Vue
 * [vue-ripple](https://github.com/BosNaufal/vue-ripple) - Simple Ripple implemented in Vue
 * [vuetify-daterange-picker](https://github.com/praveenpuglia/vuetify-daterange-picker) - Material Daterange picker for Vuetify
+* [vue-ripple-directive](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple built as a Vue Directive
+* [vue-cool-select](https://github.com/iliyaZelenko/vue-cool-select) - Select with autocomplete with a material theme
+* [vue-floating-action-button](https://github.com/a62527776a/vue-floating-action-button) - FAB implemented in Vue
+* [vue-material-year-calendar](https://github.com/nono1526/vue-material-year-calendar) - 12 month material calener in Vue
 
 ### Templates
 * [vue-material-admin](https://github.com/tookit/vue-material-admin) - Vue Material Admin built on Vuetify
+* [adminify](https://github.com/topfullstack/adminify) - An another Material Admin built on Vuetify
 
 ## React Native
 
