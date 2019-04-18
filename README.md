@@ -128,6 +128,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Vue Bootstrap with Material Design](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Theme and components for Material Design on Vue Bootstrap
 * [Vue MDC](https://github.com/posva/vue-mdc) - Port of Material Design Components for the Web to Vue
 * [Vue MDC Adapter](https://stasson.github.io/vue-mdc-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google.
+* [Keen UI](https://github.com/JosephusPaye/Keen-UI) - Lightweight Material Components for Material Web
+* [material-components-vue](https://github.com/matsp/material-components-vue) - Updated Port of Material Design Components for the Web to Vuew
+* [Devextreme Reactive](https://github.com/DevExpress/devextreme-reactive) - Material Components built on Bootstrap and Vue
 
 ### Components
 * [vue-materialize-datatable](https://github.com/MicroDroid/vue-materialize-datatable) - Materialize Datatable built for Vue
