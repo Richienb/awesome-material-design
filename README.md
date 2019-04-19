@@ -23,6 +23,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
   * [Cordova](#cordova)
   * [AngularJS](#angularjs)
   * [Blazor](#blazor)
+  * [XAML](#XAML)
 
 ## CSS and JS
 
@@ -178,6 +179,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Frameworks
 * [Material Components Android](https://github.com/material-components/material-components-android) - Material Components developed by Google for Android
+* [Material](https://github.com/CosmicMind/Material) - Rebuilding material components using Motion 
 * [Material](https://github.com/rey5137/material) -  Back-port Material Design components to pre-Lolipop Android
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) - Material Components for Android L
 
@@ -250,3 +252,6 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ### Blazor
 * [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
 * [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Port of Material Design Web Components to Blazor
+
+### XAML
+* [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Library of components for XAML
