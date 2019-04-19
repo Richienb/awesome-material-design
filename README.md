@@ -192,7 +192,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) - An easier to use Material Navigation Drawer 
 * [material-menu](https://github.com/balysv/material-menu) - Cool morphing material menu icons
 * [material-dialogs](https://github.com/afollestad/material-dialogs) - Modern Material Dialogs for Android
-
+* [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Text input for Android
+* [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) - Text Search Field for Android
+* [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) - Neat Login animation component
 
 
 
