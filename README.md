@@ -196,6 +196,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
+* [Aurelia mdl](https://github.com/genadis/aurelia-mdl) - Material Design Lite port to aurelia
+* [Aurelia mdc bridge](https://github.com/Ullfis/aurelia-mdc-bridge) - Material Design Components for the web port to aurelia
+* [Aurelia Material](https://github.com/redpelicans/aurelia-material) - Another wrapper for Material Design Lite
 
 ## Elm
 * [Elm MDC](https://github.com/aforemny/elm-mdc) - Port of Material Design Components to elm
