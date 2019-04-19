@@ -201,7 +201,14 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Aurelia Material](https://github.com/redpelicans/aurelia-material) - Another wrapper for Material Design Lite
 
 ## Elm
+
+### Frameworks
 * [Elm MDC](https://github.com/aforemny/elm-mdc) - Port of Material Design Components to elm
+* [Elm MDL](https://github.com/debois/elm-mdl) - Port of Material Design lite to Elm
+
+### Components
+* [material-icons](https://github.com/elm-community/material-icons) - Material icons made available in elm
+* [elm-material-datepicker](https://github.com/Leonti/elm-material-datepicker) - Material Datepicker built in elm
 
 ## Blazor
 * [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
