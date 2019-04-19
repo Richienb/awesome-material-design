@@ -16,13 +16,13 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Android](#android)
 * [Aurelia](#aurelia)
 * [Elm](#elm)
-* [Blazor](#blazor)
 * [Color](#color)
 * [Icons](#icons)
 * [Other](#other)
   * [Wordpress](#wordpress)
   * [Cordova](#cordova)
   * [AngularJS](#angularjs)
+  * [Blazor](#blazor)
 
 ## CSS and JS
 
@@ -209,9 +209,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ### Components
 * [material-icons](https://github.com/elm-community/material-icons) - Material icons made available in elm
 * [elm-material-datepicker](https://github.com/Leonti/elm-material-datepicker) - Material Datepicker built in elm
+* [elm-dialog](https://github.com/damukles/elm-dialog) -  Material Dialog in elm
 
-## Blazor
-* [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
+
 
 ## Color
 
@@ -246,3 +246,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
 * [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
 * [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
+
+### Blazor
+* [Blazorize](https://github.com/stsrki/Blazorise) - Component Library for Balzorise that has material theme
+* [BlazorMaterial](https://github.com/BlazorExtensions/BlazorMaterial) - Port of Material Design Web Components to Blazor
