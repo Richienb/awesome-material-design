@@ -14,7 +14,6 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Vue](#vue)
 * [React Native](#react-native)
 * [Android](#android)
-* [AngularJS](#angularjs)
 * [Aurelia](#aurelia)
 * [Elm](#elm)
 * [Blazor](#blazor)
@@ -23,6 +22,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Other](#other)
   * [Wordpress](#wordpress)
   * [Cordova](#cordova)
+  * [AngularJS](#angularjs)
 
 ## CSS and JS
 
@@ -191,10 +191,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [material-menu](https://github.com/balysv/material-menu) - Cool morphing material menu icons
 * [material-dialogs](https://github.com/afollestad/material-dialogs) - Modern Material Dialogs for Android
 
-## AngularJS
-* [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
-* [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
-* [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
+
 
 
 ## Aurelia
@@ -234,3 +231,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 
 ### Cordova
 * [Phonon](https://phonon.quarkdev.com/) - Javascript/CSS3/HTML5 mobile framework for PhoneGap/Cordova
+
+### AngularJS
+* [Lumx](https://github.com/lumapps/lumX) - Still actively developed for AngularJS 1
+* [AngularJS Material](https://material.angularjs.org/latest/) - Angular Material components by the AngularJS team
+* [Angular Materialize](https://github.com/krescruz/angular-materialize) - Port of Materialize for AngjuarJS as directives
