@@ -203,6 +203,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - Text input for Android
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) - Text Search Field for Android
 * [MaterialLogin](https://github.com/fanrunqi/MaterialLogin) - Neat Login animation component
+* [Material-backdrop)](https://github.com/Semper-Viventem/Material-backdrop) - Implemented new material component Backdrop for android
+* [Material-Backdrop-Android](https://github.com/kishan2612/Material-Backdrop-Android) - Andother material backdrop for android
+* [IBackdrop](https://github.com/pedromassango/IBackdrop) - Kotlin Material Backdrop 
 
 
 
