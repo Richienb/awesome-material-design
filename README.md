@@ -54,6 +54,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [materialize-autocomplete](https://github.com/icefox0801/materialize-autocomplete) - Jquery and CSS Material Autocomplete component for Materialize
 * [Material-Design-For-Full-Calendar](https://github.com/jackyliang/Material-Design-For-Full-Calendar) - Full Material Calender with Material Design built on Jquery and CSS
 * [mdtogglecss](https://github.com/pedrolaxe/mdtogglecss) - Material Design Toggle slider in CSS
+* [paper-toolbar](https://github.com/PolymerElements/paper-toolbar) - Ploymer material toolbar
 
 ### Templates
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dasbhoard for Bootstrap 4
@@ -61,6 +62,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Material-admin](https://github.com/BootstrapDash/Material-Admin) - Material Dashboard Admin built on Bootstrap 4 and jquery
 * [Ecommerce-Template-Bootstrap](https://github.com/mdbootstrap/Ecommerce-Template-Bootstrap) - Bootstrap 4 Ecommerce template built with material design
 * [Blog-Template-Bootstrap](https://github.com/mdbootstrap/Blog-Template-Bootstrap) - Boostrap 4 blog template in material
+
+
 
 
 ## React
