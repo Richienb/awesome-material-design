@@ -13,6 +13,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Angular](#angular)
 * [Vue](#vue)
 * [React Native](#react-native)
+* [Flutteer](#flutter)
 * [Android](#android)
 * [Aurelia](#aurelia)
 * [Elm](#elm)
@@ -174,6 +175,10 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [react-native-material-tabs](https://github.com/iRoachie/react-native-material-tabs) - Material Tabs implemented in RN
 * [react-native-material-design-searchbar](https://github.com/ananddayalan/react-native-material-design-searchbar) - Material design Searchbar
 * [react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation) - Material bottom navigation for RN
+
+## Flutter
+### Components
+* [Material-Backdrop-Flutter](https://github.com/kishan2612/Material-Backdrop-Flutter) - Backdrop from new material design for Flutter
 
 ## Android
 
