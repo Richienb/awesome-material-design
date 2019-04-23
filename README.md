@@ -13,7 +13,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Angular](#angular)
 * [Vue](#vue)
 * [React Native](#react-native)
-* [Flutteer](#flutter)
+* [Flutter](#flutter)
 * [Android](#android)
 * [iOS](#ios)
 * [Aurelia](#aurelia)
