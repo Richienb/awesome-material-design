@@ -15,6 +15,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [React Native](#react-native)
 * [Flutteer](#flutter)
 * [Android](#android)
+* [iOS](#ios)
 * [Aurelia](#aurelia)
 * [Elm](#elm)
 * [Color](#color)
@@ -208,7 +209,11 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Material-Backdrop-Android](https://github.com/kishan2612/Material-Backdrop-Android) - Andother material backdrop for android
 * [IBackdrop](https://github.com/pedromassango/IBackdrop) - Kotlin Material Backdrop 
 
+## iOS
 
+### Frameworks
+* [Material](https://github.com/CosmicMind/Material) - Material Switch components
+* [Material Components iOS](https://github.com/material-components/material-components-ios) - Material components for iOS built by Google
 
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
