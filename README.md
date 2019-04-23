@@ -215,6 +215,10 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [Material](https://github.com/CosmicMind/Material) - Material Switch components
 * [Material Components iOS](https://github.com/material-components/material-components-ios) - Material components for iOS built by Google
 
+### Components
+* [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Radio buttons, checkboxes, and more for iOS
+* [DropDown](https://github.com/AssistoLab/DropDown) - Material Dropdown for iOS
+
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
 * [Aurelia mdl](https://github.com/genadis/aurelia-mdl) - Material Design Lite port to aurelia
