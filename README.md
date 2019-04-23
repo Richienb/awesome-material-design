@@ -218,6 +218,11 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 ### Components
 * [Material-Controls-For-iOS](https://github.com/fpt-software/Material-Controls-For-iOS) - Radio buttons, checkboxes, and more for iOS
 * [DropDown](https://github.com/AssistoLab/DropDown) - Material Dropdown for iOS
+* [material-showcase-ios](https://github.com/aromajoin/material-showcase-ios) - Component to walkthrough some actions, using material
+* [GoogleMaterialDesignIcons](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - Icons ported to iOS
+* [material-motion-swift](https://github.com/material-motion/material-motion-swift) - Set of animations for Material in swift
+* [BFPaperButton](https://github.com/bfeher/BFPaperButton) - Material buttons in iOS
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - Material transitions for components transitioning into others
 
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
