@@ -226,7 +226,7 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - Material tab component for iOS
 * [circle-menu](https://github.com/Ramotion/circle-menu) - Nice ciruclar material menu with animations
 * [paper-switch](https://github.com/Ramotion/paper-switch) - Material switch component that changes the background as well
-* [expanding-collection] (https://github.com/Ramotion/expanding-collection) - Expanding a material card to a section
+* [expanding-collection](https://github.com/Ramotion/expanding-collection) - Expanding a material card to a section
 * [WYMaterialButton](https://github.com/Yu-w/WYMaterialButton) - Material button with a bounce
 
 
