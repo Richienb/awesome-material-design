@@ -224,8 +224,11 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [BFPaperButton](https://github.com/bfeher/BFPaperButton) - Material buttons in iOS
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) - Material transitions for components transitioning into others
 * [paper-onboarding](https://github.com/Ramotion/paper-onboarding) - Material tab component for iOS
-* [circle-menu)](https://github.com/Ramotion/circle-menu) - Nice ciruclar material menu with animations
+* [circle-menu](https://github.com/Ramotion/circle-menu) - Nice ciruclar material menu with animations
 * [paper-switch](https://github.com/Ramotion/paper-switch) - Material switch component that changes the background as well
+* [expanding-collection] (https://github.com/Ramotion/expanding-collection) - Expanding a material card to a section
+* [WYMaterialButton](https://github.com/Yu-w/WYMaterialButton) - Material button with a bounce
+
 
 ## Aurelia
 * [Aurelia Materialize Bridge](https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge) - Aurelia Bridge for materializecss
