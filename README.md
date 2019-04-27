@@ -182,8 +182,12 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [react-native-material-backdrop](https://github.com/darleikroth/react-native-material-backdrop) - Material backdrop for react native
 
 ## Flutter
+
 ### Components
 * [Material-Backdrop-Flutter](https://github.com/kishan2612/Material-Backdrop-Flutter) - Backdrop from new material design for Flutter
+* [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - Nice intro animations and screens using material design
+* [flutter_colorpicker](https://github.com/mchome/flutter_colorpicker) - Material card color picker
+* [flutter-autocomplete-textfield](https://github.com/felixlucien/flutter-autocomplete-textfield) - Autocomplete textfield built with material
 
 ## Android
 
