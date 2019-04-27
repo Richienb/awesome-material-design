@@ -188,6 +188,9 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - Nice intro animations and screens using material design
 * [flutter_colorpicker](https://github.com/mchome/flutter_colorpicker) - Material card color picker
 * [flutter-autocomplete-textfield](https://github.com/felixlucien/flutter-autocomplete-textfield) - Autocomplete textfield built with material
+* [flutter_fluid_slider](https://github.com/rvamsikrishna/flutter_fluid_slider) - Animated slider 
+* [flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial) - FAB speeddial in flutter
+* [material_pickers](https://github.com/long1eu/material_pickers) - Another flutter color picker
 
 ## Android
 
