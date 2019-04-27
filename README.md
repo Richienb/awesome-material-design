@@ -191,6 +191,8 @@ Below is a list of frameworks, components, templates, tools, and resources for M
 * [flutter_fluid_slider](https://github.com/rvamsikrishna/flutter_fluid_slider) - Animated slider 
 * [flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial) - FAB speeddial in flutter
 * [material_pickers](https://github.com/long1eu/material_pickers) - Another flutter color picker
+* [rubber](https://github.com/mcrovero/rubber) - Elastic Material Bottom Sheet
+* [ProgressButton](https://github.com/halilozercan/ProgressButton) - Material Button that morphs into a progress indicator
 
 ## Android
 
